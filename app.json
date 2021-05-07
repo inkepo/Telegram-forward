@@ -6,7 +6,7 @@
     "bot",
     "forwarder"
   ],
-  "repository": "https://github.com/inkepo/Telegram-forward",
+  "repository": "hhttps://github.com/inkepo/Telegram-forward",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables.",
